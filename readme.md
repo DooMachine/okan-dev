@@ -1,3 +1,3 @@
 # README
 
-<a href="http://okanaslankan.com">okanaslankan.com</a> source code.
+<a href="https://okanaslankan.com">okanaslankan.com</a> source code.
