@@ -5,19 +5,11 @@ slug = "readme"
 
 
 <p>
-A neural link controlled, biological thing named "Okan" by his previous versions, can drive  🏎️ fast cars, knows about ⚛️ physics, 💻 computers and gains reward points when it is ⛈️ thunderstorms outside for no reason.
+A neural network controlled, biological thing named "Okan" by his previous generations. Interested in ⚛️ physics, 💻 computers, can drive  🏎️ fast cars and gains reward points when it is ⛈️ thunderstorms outside for no reason.
 </p>
 <p>
 After years of freelancer development adventure, seems like he decided to share the experience and knowledge that he gathered along the road with programming community. 
 </p>
-
-## Why
-
-- You need a:
-    - Web/Mobile application 💡
-    - Custom bussiness, automation software 🤖
--  You hire a:
-    - Senior Fullstack developer 🧑‍💻
 
 
 ## Getting Started
@@ -29,6 +21,13 @@ Send a nice message to his e-mail:
 
 Check <a href="/posts/aloha">this post</a> if you want to know more about him.
 
+## Why
+
+- You need a:
+    - Web/Mobile application 💡
+    - Custom bussiness, automation software 🤖
+-  You hire a:
+    - An experienced developer 🧑‍💻
 
 ## Features 
 
