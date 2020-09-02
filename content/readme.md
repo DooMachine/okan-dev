@@ -23,10 +23,10 @@ Check <a href="/posts/aloha">this post</a> if you want to know more about him.
 
 ## Why
 
-- You need a:
+- You need:
     - Web/Mobile application 💡
     - Custom bussiness, automation software 🤖
--  You hire a:
+-  You hire:
     - An experienced developer 🧑‍💻
 
 ## Features 
