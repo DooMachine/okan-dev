@@ -1,0 +1,17 @@
+{
+  "projectName": "okandev",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "none",
+    "config": {
+      "SourceDir": "./",
+      "DistributionDir": "public",
+      "BuildCommand": "hugo --minify",
+      "StartCommand": "hugo server"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
