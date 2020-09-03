@@ -36,5 +36,3 @@ Check <a href="/posts/aloha">this post</a> if you want to know more about him.
 ![dotnet](/images/dotnet.png)
 ![react](/images/react.png)
 ![Angular](/images/angular2.png)
-
-<small> This is a</small>

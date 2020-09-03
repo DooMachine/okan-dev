@@ -84,7 +84,7 @@ disqusShortname = "okan.aslankan"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/okn.aslnkn/"
+    url = "https://www.linkedin.com/in/okan-aslankan-6042171b6/"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
