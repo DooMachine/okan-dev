@@ -21,9 +21,9 @@ disqusShortname = "okan.aslankan"
 
 [params]
     author = "okan aslankan"
-    description = "some bytes on the internet"
+    description = "okan aslankan portfolio website"
     keywords = "blog,developer,personal"
-    info = "full stack developer"
+    info = "a digital nomad"
     avatarurl = "images/avatar.jpg"
     #gravatar = "okn.aslnkn@gmail.com"
     footercontent = "remember to hydrate 💧"
