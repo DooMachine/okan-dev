@@ -3,4 +3,5 @@ title = "Contact"
 slug = "contact"
 +++
 
-I think there're some icons in home page... right?
+There'll be a form here. Until then please write to my email: okn.aslnkn@gmail.com
+
