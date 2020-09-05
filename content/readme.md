@@ -36,3 +36,7 @@ Check <a href="https://www.okanaslankan.com/posts/aloha/">this post</a> if you w
 ![dotnet](/images/dotnet.png)
 ![react](/images/react.png)
 ![Angular](/images/angular2.png)
+
+## Source Code
+
+Source code for this website is located in <a href="https://github.com/DooMachine/okan-dev" target="_blank">github</a> Made with <a href="https://gohugo.io/" target="_blank">hugo</a>
