@@ -19,7 +19,7 @@ It may be a programming task, asking for advise or just a simple chat:
 Send a nice message to his e-mail: 
 <a href="emailto:okn.aslnkn@gmail.com">okn.aslnkn@gmail.com</a> address.
 
-Check <a href="/posts/aloha">this post</a> if you want to know more about him.
+Check <a href="https://www.okanaslankan.com/posts/aloha/">this post</a> if you want to know more about him.
 
 ## Why
 
