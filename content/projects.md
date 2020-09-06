@@ -57,6 +57,7 @@ slug = "projects"
     }
     .project .img-wrapper {
         border-bottom: 1px solid #ddd;
+        background-color: inherit;
         height: 160px;
         max-width: 100%;
         display: flex;
