@@ -12,13 +12,11 @@ slug = "projects"
 
 <div class="project"> 
     <img src="/images/eaton.svg" alt="EATON">
-    <h3>EATON</h3>
     <p class="project-detail">Implemented angular prototype application for them.</p>
 </div>
 
 <div class="project"> 
     <img src="/images/topcoder.png" alt="TOPCODER">
-    <h3>TOPCODER</h3>
     <p class="project-detail">Worked for challenges & projects with prize of total $25.000+</p>
 </div>
 
