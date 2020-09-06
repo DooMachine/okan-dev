@@ -8,7 +8,7 @@ slug = "readme"
 A neural network controlled, biological thing named "Okan" by his previous generations. Interested in ⚛️ physics, 💻 computers, can drive  🏎️ fast cars and gains reward points when it is ⛈️ thunderstorms outside for no reason.
 </p>
 <p>
-After years of freelancer development adventure, seems like he decided to share the experience and knowledge that he gathered along the road with programming community. 
+After years of freelancer development journey, seems like he decided to share the experience and knowledge that he gathered along the road with programming community.
 </p>
 
 
