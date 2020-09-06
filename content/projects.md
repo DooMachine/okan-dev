@@ -31,10 +31,15 @@ slug = "projects"
 
 <style>
     .project {
+        width: 33.333%;
         display: flex;
         max-width: 100%;
     }
     .project h3 {
         font-weight: bold;
+    }
+
+    .project img {
+        width: 100%
     }
 </style>
