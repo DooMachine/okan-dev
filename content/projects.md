@@ -32,6 +32,7 @@ slug = "projects"
         width: 33.333%;
         display: flex;
         max-width: 100%;
+        flex-direction: column;
     }
     .project h3 {
         font-weight: bold;
