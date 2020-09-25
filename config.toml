@@ -23,10 +23,10 @@ disqusShortname = "okan.aslankan"
     author = "okan aslankan"
     description = "okan aslankan portfolio website"
     keywords = "blog,developer,okan,aslankan"
-    info = "sr. software developer"
+    info = "Sr. Software Developer"
     avatarurl = "images/avatar.jpg"
     #gravatar = "okn.aslnkn@gmail.com"
-    footercontent = "remember to hydrate 💧"
+    footercontent = ""
     IsMultiLingual = false
 
     dateformat = "January 2, 2006"
